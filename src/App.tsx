@@ -1,9 +1,13 @@
 import CRUDsimple from "./components/CRUDsimple"
+import Routes from "./components/Routes";
 
 function App() {
   return (
     <>
-      <CRUDsimple />
+      {/*<CRUDsimple />*/}
+
+      {/*<Routes />*/}
+
     </>
   );
 }
